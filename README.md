@@ -7,6 +7,6 @@ I used the technical info provided in the documentation to build the conceptual 
 
 I built the database architecture and created a database model (Enhanced Entity-relationship diagram or EER) of my tables based on my ERD and entity description.
 
-I then went through the forward engineering process to translate my database model (EER) into the database schema that is used to create the physical database, tables and attributes in your database system. Note that this process must be done in MYSQLWorkBench as seen in class. Backward engineering is not allowed in this section
+I then went through the forward engineering process to translate my database model (EER) into the database schema that is used to create the physical database, tables and attributes in your database system.
 
 Lastly, I created a Discord bot that will serve as a bridge interface to serve knowledge between my database system and the end user of my application. The main goal was to transform the data (output from my business rules) into knowledge to meet the user's needs.
